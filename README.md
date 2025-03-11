@@ -1,7 +1,6 @@
 # Learn-Python
 
 # API
-
 # 🚀 Roadmap to Consume an API in Python
 
 ## 📌 Introduction
@@ -158,3 +157,10 @@ asyncio.run(fetch_data())
 
 ## 🎯 Conclusion
 Following this roadmap, you can efficiently consume APIs in Python and integrate them into various projects. Happy coding! 🚀
+
+---
+
+## 📚 Additional Resources
+- [Requests Library Documentation](https://docs.python-requests.org/en/latest/)
+- [JSONPlaceholder API for Testing](https://jsonplaceholder.typicode.com/)
+- [Real Python: Consuming APIs](https://realpython.com/api-integration-in-python/)
